@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Muhammed Suhail. I live in Kerala, 🇮🇳India.
 
--👨🏻‍💻 I am Senior Software Development Engineer @ Softius Technologies
--🔭 I’m currently working on eCommerce Platform.
--💬 Ask me about Web Development, Laravel and VueJs
--📫 How to reach me: at pk.suhail47@gmail.com.
+- 👨🏻‍💻 I am Senior Software Development Engineer @ Softius Technologies
+- 🔭 I’m currently working on eCommerce Platform.
+- 💬 Ask me about Web Development, Laravel and VueJs
+- 📫 How to reach me: at pk.suhail47@gmail.com.
