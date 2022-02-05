@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **eCommerce Platform**
 
-- 👨‍💻 All of my projects are available at [www.appocs.com](www.appocs.com)
+- 👨‍💻 All of my projects are available at <a href="http://appocs.com">www.appocs.com</a>
 
 - 💬 Ask me about **Web Development, Vuejs, Laravel, InertiaJs**
 
